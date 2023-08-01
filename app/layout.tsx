@@ -5,8 +5,8 @@ import { SessionContextProvider } from '@/modules/application/contexts/SessionCo
 import './globals.css';
 
 export const metadata = {
-  title: 'Firebase Wallet Connect with Next JS',
-  description: 'Firebase Wallet Connect with Next JS',
+  title: 'Firebase + Wagmi Authentication with Next.js',
+  description: 'Firebase + Wagmi Authentication with Next.js',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
